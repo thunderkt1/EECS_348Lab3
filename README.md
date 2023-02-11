@@ -107,7 +107,7 @@ Inputted Scores: 25, 32, 12
   0 TD + 2pt, 0 TD + FG, 0 TD, 1 3pt FG, 11 Safety
 
   Input 32:
-  Output
+  Output:
   Enter 0 or 1 to STOP
   Input a score: 32
   4 TD + 2pt, 0 TD + FG, 0 TD, 0 3pt FG, 0 Safety 
@@ -196,7 +196,7 @@ Inputted Scores: 25, 32, 12
   0 TD + 2pt, 0 TD + FG, 0 TD, 0 3pt FG, 16 Safety
 
   Input 12:
-  Output
+  Output:
   Enter 0 or 1 to STOP
   Input a score: 12
   1 TD + 2pt, 0 TD + FG, 0 TD, 0 3pt FG, 2 Safety 
